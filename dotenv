@@ -1,0 +1,5 @@
+# Test file for DotEnv
+s="hello"
+S3_BUCKET=YOURS3BUCKET
+HASH="#"
+INT=1
